@@ -1,0 +1,4 @@
+[Desktop Entry]
+Name=xinitrc
+Exec=xsession-xinitrc
+Type=Application
